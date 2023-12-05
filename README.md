@@ -2,5 +2,5 @@
 
 linguagens que eu uso
 <div style="display: inline_block"><br/>
- <img src="https://cdnjsdelivr.net/gh/devicons/icons/c/c-original.svg" width="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/icons/c/c-original.svg" width="50" />
 </div>
